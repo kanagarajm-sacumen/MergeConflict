@@ -1,2 +1,2 @@
 # MergeConflict - owner
-# merge conflict - branch name(change your branch name)
+this changes is made from branch 2
